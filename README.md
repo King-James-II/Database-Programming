@@ -23,11 +23,11 @@ The repository also includes sample data for each table:
 This database schema and sample data can be used for testing, development, or educational purposes related to library management systems. Users can import the SQL files into their preferred database management system to create the database structure and populate it with sample data.
 
 ## Types of SQL Queries present:
-Basic Select Query
-Select Query with Calculations
-Join Query with Filtering
-Group By and Order By
-Subquery
-View Creation
-Index Creation
-Union Query
+- Basic Select Query
+- Select Query with Calculations
+- Join Query with Filtering
+- Group By and Order By
+- Subquery
+- View Creation
+- Index Creation
+- Union Query
